@@ -1,0 +1,7 @@
+{
+  "name": "InboxOps AI",
+  "description": "AI-powered client operations dashboard to manage leads, requirements, deadlines, tasks, human-approved email reply drafts, and activity history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
